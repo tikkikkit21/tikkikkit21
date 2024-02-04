@@ -1,18 +1,18 @@
-### 👋 Hi there, I'm Tikki
+## 👋 Hi there, I'm Tikki
 
-#### 📗 About Me
+### 📗 About Me
 Hello! My name is Timothy Cui, but I usually go by Tikki. I'm currently a
 student at Virginia Tech who's majoring in Computer Science. I'm passionate
 about all things computer science, but I'm particularly interested in AI/ML. I
 specifically wish to dive into autonomy related to robotics and vehicles.
 
-#### 🎓 Education
+### 🎓 Education
 I'm finishing up my Bachelor of Science at Virginia Tech. After (hopefully)
 graduating this spring of 2024, I will continue my education at Virginia Tech
 with a Master of Engineering in Computer Science. Throughout my Master's, I plan
 to specialize in *Data Analytics & AI*.
 
-#### 💻 Experience
+### 💻 Experience
 | Position | Company | Tine
 |-|-|-|
 |Mathematics Grader|[Virginia Tech (Dept of Math)](https://math.vt.edu/)|Spring 2024
@@ -20,12 +20,12 @@ to specialize in *Data Analytics & AI*.
 |Software Development Intern|[Exelaration](https://exelaration.com/)|Summer 2023
 |Data Reduction Intern|[Driving Safety Research Institute](https://dsri.uiowa.edu/)|Summer 2019
 
-#### 👨‍💻 Notable Repositories
+### 👨‍💻 Notable Repositories
 - ☔ **WeatherML** - *What should I wear, given the outside weather?*
 - 🎮 **MinecraftAI** - *Play Minecraft, except with hand gestures through your webcam*
 - 👨‍🏫 **LinkedInLearning** - *Notes/code from all the LinkedIn Learning courses I've taken*
 
-#### 💬 Contact Me
+### 💬 Contact Me
 ✉️ tikkikkit21@gmail.com<br>
 🟦 [linkedin.com/in/timothycui](https://www.linkedin.com/in/timothycui/)
 
