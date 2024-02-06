@@ -13,7 +13,7 @@ with a Master of Engineering in Computer Science. Throughout my Master's, I plan
 to specialize in *Data Analytics & AI*.
 
 ### 💻 Experience
-| Position | Company | Tine
+| Position | Company | Time
 |-|-|-|
 |Mathematics Grader|[Virginia Tech (Dept of Math)](https://math.vt.edu/)|Spring 2024
 |Undergraduate Teaching Assistant|[Virginia Tech (Dept of Engineering)](https://eng.vt.edu/)|Fall 2023
