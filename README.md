@@ -21,9 +21,9 @@ to specialize in *Data Analytics & AI*.
 |Data Reduction Intern|[Driving Safety Research Institute](https://dsri.uiowa.edu/)|Summer 2019
 
 ### 👨‍💻 Notable Repositories
-- ☔ **WeatherML** - *What should I wear, given the outside weather?*
-- 🎮 **MinecraftAI** - *Play Minecraft, except with hand gestures through your webcam*
-- 👨‍🏫 **LinkedInLearning** - *Notes/code from all the LinkedIn Learning courses I've taken*
+- **WeatherML** - *What should I wear, given the outside weather?*
+- **MinecraftAI** - *Play Minecraft, except with hand gestures through your webcam*
+- **LinkedInLearning** - *Notes/code from all the LinkedIn Learning courses I've taken*
 
 ### 💬 Contact Me
 ✉️ tikkikkit21@gmail.com<br>
