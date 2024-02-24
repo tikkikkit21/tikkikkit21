@@ -2,12 +2,12 @@
 
 ### 📗 About Me
 Hello! My name is Timothy Cui, but I usually go by Tikki. I'm currently a
-student at Virginia Tech who's majoring in Computer Science. I'm passionate
+senior at Virginia Tech who's majoring in Computer Science. I'm passionate
 about all things computer science, but I'm particularly interested in AI/ML. I
 specifically wish to dive into autonomy related to robotics and vehicles.
 
 ### 🎓 Education
-I'm finishing up my Bachelor of Science at Virginia Tech. After (hopefully)
+I'm finishing up my Bachelor of Science at Virginia Tech. After
 graduating this spring of 2024, I will continue my education at Virginia Tech
 with a Master of Engineering in Computer Science. Throughout my Master's, I plan
 to specialize in *Data Analytics & AI*.
