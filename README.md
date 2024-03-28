@@ -23,6 +23,7 @@ to specialize in *Data Analytics & AI*.
 ### 👨‍💻 Notable Repositories
 - **WeatherML** - *What should I wear, given the outside weather?*
 - **MinecraftAI** - *Play Minecraft, except with hand gestures through your webcam*
+- **BTApp2.0** - *Giving the current Blacksburg Transit (BT) app a makeover*
 - **LinkedInLearning** - *Notes/code from all the LinkedIn Learning courses I've taken*
 
 ### 💬 Contact Me
