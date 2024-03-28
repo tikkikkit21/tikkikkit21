@@ -17,7 +17,7 @@ to specialize in *Data Analytics & AI*.
 | -------------------------------- | ------------------------------------------------------------ | ----------- |
 | Mathematics Grader               | [Virginia Tech (Dept of Math)](https://math.vt.edu/)         | Spring 2024 |
 | Undergraduate Teaching Assistant | [Virginia Tech (Dept of Engineering)](https://eng.vt.edu/)   | Fall 2023   |
-| Software Development Intern      | [Exelaration Software Center](https://exelaration.com/)      | Summer 2023 |
+| Software Engineering Intern      | [Exelaration Software Center](https://exelaration.com/)      | Summer 2023 |
 | Data Reduction Intern            | [Driving Safety Research Institute](https://dsri.uiowa.edu/) | Summer 2019 |
 
 ### 👨‍💻 Notable Repositories
