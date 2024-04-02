@@ -13,12 +13,12 @@ with a Master of Engineering in Computer Science. During my Master's, I will be
 concentrating in *Data Analytics & AI*.
 
 ### 💻 Experience
-| Position                         | Company                                                      | Date                     |
-| -------------------------------- | ------------------------------------------------------------ | ------------------------ |
-| Mathematics Grader               | [Virginia Tech (Dept of Math)](https://math.vt.edu/)         | Jan 2024 &mdash; Present |
-| Undergraduate Teaching Assistant | [Virginia Tech (Dept of Engineering)](https://eng.vt.edu/)   | Aug &mdash; Dec 2023            |
-| Software Engineering Intern      | [Exelaration Software Center](https://exelaration.com/)      | May &mdash; Aug 2023     |
-| Data Reduction Intern            | [Driving Safety Research Institute](https://dsri.uiowa.edu/) | Jul 2019                 |
+| Position                         | Company                                                      | Date        |
+| -------------------------------- | ------------------------------------------------------------ | ----------- |
+| Mathematics Grader               | [Virginia Tech (Dept of Math)](https://math.vt.edu/)         | Spring 2024 |
+| Undergraduate Teaching Assistant | [Virginia Tech (Dept of Engineering)](https://eng.vt.edu/)   | Fall 2023   |
+| Software Engineering Intern      | [Exelaration Software Center](https://exelaration.com/)      | Summer 2023 |
+| Data Reduction Intern            | [Driving Safety Research Institute](https://dsri.uiowa.edu/) | Summer 2019 |
 
 ### 👨‍💻 Notable Repositories
 - [**WeatherML**](https://github.com/tikkikkit21/WeatherML) -
