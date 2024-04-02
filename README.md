@@ -21,10 +21,10 @@ to specialize in *Data Analytics & AI*.
 | Data Reduction Intern            | [Driving Safety Research Institute](https://dsri.uiowa.edu/) | Summer 2019 |
 
 ### 👨‍💻 Notable Repositories
-- **WeatherML** - *What should I wear, given the outside weather?*
-- **MinecraftAI** - *Play Minecraft, except with hand gestures through your webcam*
-- **BTApp2.0** - *Giving the current Blacksburg Transit (BT) app a makeover*
-- **LinkedInLearning** - *Notes/code from all the LinkedIn Learning courses I've taken*
+- [**WeatherML**](https://github.com/tikkikkit21/WeatherML) - *What should I wear, given the outside weather?*
+- [**MinecraftAI**](https://github.com/tikkikkit21/MinecraftAI) - *Play Minecraft, except with hand gestures through your webcam*
+- [**BTApp2.0**](https://github.com/tikkikkit21/BTApp2.0) - *Giving the current Blacksburg Transit (BT) app a makeover*
+- [**LinkedInLearning**](https://github.com/tikkikkit21/LinkedInLearning) - *Notes/code from all the LinkedIn Learning courses I've taken*
 
 ### 💬 Contact Me
 ✉️ tikkikkit21@gmail.com<br>
