@@ -27,6 +27,9 @@ concentrating in *Data Analytics & AI*.
   *Play Minecraft, except with hand gestures through your webcam*
 - [**BTApp2.0**](https://github.com/tikkikkit21/BTApp2.0) -
   *Giving the current Blacksburg Transit (BT) app a makeover*
+- [**Discord Bot**](https://github.com/JadeJaguar17/RebirthRusher) -
+  *A Discord bot I've been working on since Dec 2020 (owned by alt account for
+  privacy reasons)*
 - [**LinkedInLearning**](https://github.com/tikkikkit21/LinkedInLearning) -
   *Notes/code from all the LinkedIn Learning courses I've taken*
 
