@@ -1,16 +1,17 @@
 ## 👋 Hi there, I'm Tikki
 
 ### 📗 About Me
-Hello! My name is Timothy Cui, though I usually go by Tikki. I'm currently a
-senior at Virginia Tech who's majoring in Computer Science. I'm passionate
-about all things computer science, but I'm particularly interested in AI/ML. I
-particularly desire to work robotic and vehicle autonomy.
+Hello! My name is Timothy Cui, though I usually go by Tikki. I'm passionate
+about all things computer science and I aim to be a well-rounded programmer.
+I've taken lots of electives and LinkedIn Learning courses to help broaden my
+skillset. However, I'm mainly interested in AI/ML, particularly when it comes to
+computer vision and vehicle/robotic autonomy.
 
 ### 🎓 Education
-I'm finishing up my Bachelor of Science at Virginia Tech. After
-graduating this spring of 2024, I will continue my education at Virginia Tech
-with a Master of Engineering in Computer Science. During my Master's, I will be
-concentrating in *Data Analytics & AI*.
+I graduated from Virginia Tech last spring with a Bachelor of Science in
+Computer Science. I am continuing my education at Virginia Tech with a Master of
+Engineering in Computer Science. During my Master's, I will be concentrating in
+Data Analytics & AI.
 
 ### 💻 Experience
 | Position                         | Company                                                      | Date        |
