@@ -37,5 +37,5 @@ Data Analytics & AI.
 
 ### 💬 Contact Me
 
-✉️ tikki.cui@gmail.com<br>
+✉️ tikki.cui [at] gmail.com<br>
 🟦 [linkedin.com/in/tikkicui](https://www.linkedin.com/in/tikkicui/)
